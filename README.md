@@ -99,6 +99,12 @@ react-weather-app/
 - **Open-Meteo API**: Weather data provider
 - **CSS**: For styling (or any CSS framework used)
 
+## UI/Ux 
+### Day Time 
+![A screenshot of the project's user interface](./assets/webImage/homePage.png)
+### Night Time
+![A screenshot of the project's user interface](./assets/webImage/homePage2.png)
+
 ## Usage Instructions
 
 1. Open the application in your browser.
